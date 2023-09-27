@@ -1,0 +1,40 @@
+rank,currency,iso_4217,symbol,proportion_of_daily_volume_2022
+1,U.S. dollar,USD,US$,88.5%
+2,Euro,EUR,€,30.5%
+3,Japanese yen,JPY,¥/円,16.7%
+4,Sterling,GBP,£,12.9%
+5,Renminbi,CNY,¥/元,7.0%
+6,Australian dollar,AUD,A$,6.4%
+7,Canadian dollar,CAD,C$,6.2%
+8,Swiss franc,CHF,CHF,5.2%
+9,Hong Kong dollar,HKD,HK$,2.6%
+10,Singapore dollar,SGD,S$,2.4%
+11,Swedish krona,SEK,kr,2.2%
+12,South Korean won,KRW,₩ / 원,1.9%
+13,Norwegian krone,NOK,kr,1.7%
+14,New Zealand dollar,NZD,NZ$,1.7%
+15,Indian rupee,INR,₹,1.6%
+16,Mexican peso,MXN,$,1.5%
+17,New Taiwan dollar,TWD,NT$,1.1%
+18,South African rand,ZAR,R,1.0%
+19,Brazilian real,BRL,R$,0.9%
+20,Danish krone,DKK,kr,0.7%
+21,Polish złoty,PLN,zł,0.7%
+22,Thai baht,THB,฿,0.4%
+23,Israeli new shekel,ILS,₪,0.4%
+24,Indonesian rupiah,IDR,Rp,0.4%
+25,Czech koruna,CZK,Kč,0.4%
+26,UAE dirham,AED,د.إ,0.4%
+27,Turkish lira,TRY,₺,0.4%
+28,Hungarian forint,HUF,Ft,0.3%
+29,Chilean peso,CLP,CLP$,0.3%
+30,Saudi riyal,SAR,﷼,0.2%
+31,Philippine peso,PHP,₱,0.2%
+32,Malaysian ringgit,MYR,RM,0.2%
+33,Colombian peso,COP,COL$,0.2%
+34,Russian ruble,RUB,₽,0.2%
+35,Romanian leu,RON,L,0.1%
+36,Peruvian sol,PEN,S/,0.1%
+37,Bahraini dinar,BHD,.د.ب,0.0%
+38,Bulgarian lev,BGN,BGN,0.0%
+39,Argentine peso,ARS,ARG$,0.0%
